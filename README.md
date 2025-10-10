@@ -146,7 +146,7 @@ ai-dungeon-master/
 - **Updates**: Automatic progress detection
 
 ## 🎥 Demo Video
--**Short Term Recall**-[SHORT TERM RECALL DEMO VIDEO  LINK](https://drive.google.com/file/d/1Uuv4lgi5LTW-ijBbJx6S4RKmm6FZ1FXa/view?usp=drive_link)
+-**Short Term Recall**-[SHORT TERM RECALL DEMO VIDEO  LINK](https://drive.google.com/file/d/1Uuv4lgi5LTW-ijBbJx6S4RKmm6FZ1FXa/view?usp=drive_link)<br>
 -**Long Term Recall**- [LONG TERM RECALL DEMO VIDEO LINK]
 
 ## 📊 Performance
@@ -154,4 +154,3 @@ ai-dungeon-master/
 - Handles 30+ turns without memory degradation
 - Sub-second response time for memory retrieval
 - Consistent narrative across extended sessions
-

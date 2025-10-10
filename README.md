@@ -11,18 +11,6 @@ This project implements an intelligent AI Dungeon Master system that maintains p
 - **Modular Architecture**: Clean, scalable design with interpretable memory management
 
 ## System Architecture
-<pr>
-┌─────────────────┐     ┌──────────────────┐    ┌─────────────────┐
-│ LLM Engine      │◄──► |Memory Manager    │◄──►│ Game State      │
-│ (Groq API)      │     │                  │    │                 │
-└─────────────────┘     └──────────────────┘    └─────────────────┘
-        │
-        ▼
-┌─────────────────┐
-│ Vector Store    │
-│ (FAISS/Pine)    │
-└─────────────────┘
-</pr>
 
 ```mermaid
 flowchart TD

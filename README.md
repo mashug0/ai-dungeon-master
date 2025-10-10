@@ -44,5 +44,5 @@ pip install -r requirements.txt
 see the Technical_Report.pdf for detailed system design, methodology, and evaluation results.
 
 ## TEAM
-SUHANI MAHESHWARI
-SAKSHAM GUPTA
+1.SUHANI MAHESHWARI
+2.SAKSHAM GUPTA

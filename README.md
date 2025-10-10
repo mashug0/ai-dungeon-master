@@ -41,7 +41,7 @@ pip install -r requirements.txt
    in the addons section of the notebook add a kaggle secret with the name GROQ_API_KEY and add your groq api key there
 ## DEMO
 ## TECHNICAL REPORT
-see the TechnicalReport.pdf for detailed system design, methodology, and evaluation results.
+see the Technical_Report.pdf for detailed system design, methodology, and evaluation results.
 
 ## TEAM
 SUHANI MAHESHWARI

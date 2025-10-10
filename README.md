@@ -24,16 +24,12 @@ This project implements an intelligent AI Dungeon Master system that maintains p
 └─────────────────┘
 </pr>
 
-<div align="center">
-
-| Component | Role | Interactions |
-|-----------|-------|-------------|
-| **LLM Engine**<br>(Groq API) | Generates narrative responses | ↔ Memory Manager |
-| **Memory Manager** | Manages short/long-term memory | ↔ Game State, → Vector Store |
-| **Game State** | Tracks current game context | ↔ Memory Manager |
-| **Vector Store**<br>(FAISS/Pinecone) | Stores & retrieves memories | ← Memory Manager |
-
-</div>
+```mermaid
+flowchart TD
+    A[LLM Engine<br>Groq API] <--> B[Memory Manager]
+    B <--> C[Game State]
+    B --> D[Vector Store<br>FAISS/Pinecone]
+```
 
 ## Setup Instructions
 

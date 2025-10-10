@@ -147,7 +147,7 @@ ai-dungeon-master/
 
 ## 🎥 Demo Video
 -**Short Term Recall**-[SHORT TERM RECALL DEMO VIDEO  LINK](https://drive.google.com/file/d/1Uuv4lgi5LTW-ijBbJx6S4RKmm6FZ1FXa/view?usp=drive_link)<br>
--**Long Term Recall**- [LONG TERM RECALL DEMO VIDEO LINK]
+-**Long Term Recall**- [LONG TERM RECALL DEMO VIDEO LINK](https://drive.google.com/file/d/1twwny3KJppTq_TwATOjbga9dOVf4NDUE/view?usp=sharing)
 
 ## 📊 Performance
 

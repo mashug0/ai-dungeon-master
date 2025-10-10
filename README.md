@@ -23,6 +23,18 @@ This project implements an intelligent AI Dungeon Master system that maintains p
 │ (FAISS/Pine)    │
 └─────────────────┘
 </pr>
+
+<div align="center">
+
+| Component | Role | Interactions |
+|-----------|-------|-------------|
+| **LLM Engine**<br>(Groq API) | Generates narrative responses | ↔ Memory Manager |
+| **Memory Manager** | Manages short/long-term memory | ↔ Game State, → Vector Store |
+| **Game State** | Tracks current game context | ↔ Memory Manager |
+| **Vector Store**<br>(FAISS/Pinecone) | Stores & retrieves memories | ← Memory Manager |
+
+</div>
+
 ## Setup Instructions
 
 ### Prerequisites

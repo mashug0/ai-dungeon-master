@@ -146,8 +146,7 @@ ai-dungeon-master/
 - **Updates**: Automatic progress detection
 
 ## 🎥 Demo Video
-
--short term recall-[SHORT TERM RECALL DEMO VIDEO  LINK](https://drive.google.com/file/d/1Uuv4lgi5LTW-ijBbJx6S4RKmm6FZ1FXa/view?usp=drive_link) \n
+-short term recall-[SHORT TERM RECALL DEMO VIDEO  LINK](https://drive.google.com/file/d/1Uuv4lgi5LTW-ijBbJx6S4RKmm6FZ1FXa/view?usp=drive_link)
 -long term recall- [LONG TERM RECALL DEMO VIDEO LINK]
 
 ## 📊 Performance

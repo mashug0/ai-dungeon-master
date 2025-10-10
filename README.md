@@ -70,12 +70,6 @@ Or the system will prompt you for it at runtime.
 
 ## 💻 Usage
 
-### Basic Usage
-
-Run the main game:
-```bash
-python main.py
-```
 
 ### Commands
 - Type your actions naturally
@@ -112,33 +106,20 @@ The system is designed to sustain 30+ turns with:
 - **Long-term recall**: Relevant past events retrieved via semantic search
 - **Consistency**: Lore Talker prevents contradictions
 
-### Evaluation Areas
-
-1. **Memory Effectiveness** (40 points)
-   - Short-term: Tracks recent 5 turns accurately
-   - Long-term: Recalls events from 30+ turns ago
-
-2. **Multi-Agent Coordination** (25 points)
-   - Memory Manager, DM, and Lore Talker work seamlessly
-   - Debug console shows agent operations
-
-3. **Adaptive Behavior** (15 points)
-   - Temperature adjusts based on context
-   - NPC personalities evolve (bonus)
-   - Quests auto-tracked (bonus)
-
 ## 📁 File Structure
 
 ```
 ai-dungeon-master/
-├── main.py                 # Main orchestrator
-├── memory_manager.py       # Memory storage and retrieval
-├── dungeon_master.py       # Narrative generation
-├── lore_talker.py         # Consistency verification
-├── npc_manager.py         # NPC personality system (bonus)
-├── quest_log.py           # Dynamic quest tracking (bonus)
+├── MainSystem.py                 # Main orchestrator
+├── MemoryAgent.py       # Memory storage and retrieval
+├── DungeonMaster.py       # Narrative generation
+├── LareTalker.py         # Consistency verification
+├── NPCPersonalityManager.py         # NPC personality system (bonus)
+├── DynamicQuestLog.py # Dynamic quest tracking (bonus)
+├── test_memory_recall.py
+├── demo_interactive_session.py
 ├── requirements.txt       # Dependencies
-└── README.md             # This file
+└── README.md # This file
 ```
 
 ## 🔧 Technical Details
@@ -166,7 +147,8 @@ ai-dungeon-master/
 
 ## 🎥 Demo Video
 
-[Link to recording showing short-term and long-term recall]
+short term recall-
+long term recall-
 
 ## 📊 Performance
 
@@ -174,27 +156,10 @@ ai-dungeon-master/
 - Sub-second response time for memory retrieval
 - Consistent narrative across extended sessions
 
-## 🐛 Troubleshooting
-
-**ChromaDB errors**: Delete the `chroma_db` folder and restart
-```bash
-rm -rf chroma_db/
-```
-
-**API rate limits**: Groq free tier allows 30 requests/minute
-
-**Memory issues**: System uses ~500MB RAM for embeddings
 
 ## 🤝 Contributing
 
 This project was developed for Inter IIT Tech Meet 14.0 AI/ML Bootcamp.
-
-## 📄 License
-
-MIT License
-
-## 🙏 Acknowledgments
-
-- Groq for fast LLM inference
-- ChromaDB for vector storage
-- Sentence Transformers for embeddings
+Team:
+1.Suhani Maheshwari
+2.Saksham Gupta

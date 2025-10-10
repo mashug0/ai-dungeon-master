@@ -146,8 +146,8 @@ ai-dungeon-master/
 - **Updates**: Automatic progress detection
 
 ## 🎥 Demo Video
--short term recall-[SHORT TERM RECALL DEMO VIDEO  LINK](https://drive.google.com/file/d/1Uuv4lgi5LTW-ijBbJx6S4RKmm6FZ1FXa/view?usp=drive_link)
--long term recall- [LONG TERM RECALL DEMO VIDEO LINK]
+-**Short Term Recall**-[SHORT TERM RECALL DEMO VIDEO  LINK](https://drive.google.com/file/d/1Uuv4lgi5LTW-ijBbJx6S4RKmm6FZ1FXa/view?usp=drive_link)
+-**Long Term Recall**- [LONG TERM RECALL DEMO VIDEO LINK]
 
 ## 📊 Performance
 
@@ -155,10 +155,3 @@ ai-dungeon-master/
 - Sub-second response time for memory retrieval
 - Consistent narrative across extended sessions
 
-
-## 🤝 Contributing
-
-This project was developed for Inter IIT Tech Meet 14.0 AI/ML Bootcamp.
-Team:
-1.Suhani Maheshwari
-2.Saksham Gupta

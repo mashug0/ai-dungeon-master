@@ -24,8 +24,8 @@ An intelligent, interactive storytelling system that maintains long-term narrati
 - **Smart Debug Console**: Real-time introspection of memory operations
 
 ### Bonus Features
-- **NPC Personality Evolution** (+10 points): Characters remember interactions and evolve their personalities
-- **Dynamic Quest Log** (+5 points): Automatic quest detection and tracking
+- **NPC Personality Evolution** : Characters remember interactions and evolve their personalities
+- **Dynamic Quest Log** : Automatic quest detection and tracking
 
 ## 🏗️ Architecture
 
